@@ -2,6 +2,8 @@
 """
 Cleanup script for incomplete YouTube downloads
 """
+import utils.transport
+import utils.session
 import os
 import glob
 
